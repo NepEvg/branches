@@ -24,7 +24,7 @@ namespace ConsoleApp
                     
                     break;
                 case "/":
-                    Console.WriteLine(a / b);
+                    
                     break;
                 default:
                     Console.WriteLine("такой операции нет");
