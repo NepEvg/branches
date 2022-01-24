@@ -1,0 +1,16 @@
+D:\branches\ConsoleApp\bin\Debug\net5.0\ConsoleApp.exe
+D:\branches\ConsoleApp\bin\Debug\net5.0\ConsoleApp.deps.json
+D:\branches\ConsoleApp\bin\Debug\net5.0\ConsoleApp.runtimeconfig.json
+D:\branches\ConsoleApp\bin\Debug\net5.0\ConsoleApp.runtimeconfig.dev.json
+D:\branches\ConsoleApp\bin\Debug\net5.0\ConsoleApp.dll
+D:\branches\ConsoleApp\bin\Debug\net5.0\ref\ConsoleApp.dll
+D:\branches\ConsoleApp\bin\Debug\net5.0\ConsoleApp.pdb
+D:\branches\ConsoleApp\obj\Debug\net5.0\ConsoleApp.csproj.AssemblyReference.cache
+D:\branches\ConsoleApp\obj\Debug\net5.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\branches\ConsoleApp\obj\Debug\net5.0\ConsoleApp.AssemblyInfoInputs.cache
+D:\branches\ConsoleApp\obj\Debug\net5.0\ConsoleApp.AssemblyInfo.cs
+D:\branches\ConsoleApp\obj\Debug\net5.0\ConsoleApp.csproj.CoreCompileInputs.cache
+D:\branches\ConsoleApp\obj\Debug\net5.0\ConsoleApp.dll
+D:\branches\ConsoleApp\obj\Debug\net5.0\ref\ConsoleApp.dll
+D:\branches\ConsoleApp\obj\Debug\net5.0\ConsoleApp.pdb
+D:\branches\ConsoleApp\obj\Debug\net5.0\ConsoleApp.genruntimeconfig.cache
